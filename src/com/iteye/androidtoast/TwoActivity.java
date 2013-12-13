@@ -9,7 +9,7 @@ public class TwoActivity extends Activity {
 	protected void onCreate(Bundle savedInstanceState) {
 		// TODO Auto-generated method stub
 		super.onCreate(savedInstanceState);
-		this.setContentView(R.layout.twoactivity);
+		this.setContentView2(R.layout.twoactivity);//
 		//TODO Auto-generated method stub
 		//aaaa
 	}
