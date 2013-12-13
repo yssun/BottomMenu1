@@ -10,6 +10,8 @@ public class TwoActivity extends Activity {
 		// TODO Auto-generated method stub
 		super.onCreate(savedInstanceState);
 		this.setContentView(R.layout.twoactivity);
+		//TODO Auto-generated method stub
+		//aaaa
 	}
 
 }
